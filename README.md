@@ -1,1 +1,1 @@
-vpnScript
+Small script for auto assigment of OpenVPN IP address with Cloudflare
