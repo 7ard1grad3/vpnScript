@@ -33,7 +33,6 @@ def set_ip(ip):
     print(response.json())
 
 
-# Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     ip = get_ip()
     if ip.startswith("10.8.0"):
